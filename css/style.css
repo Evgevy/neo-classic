@@ -10177,6 +10177,11 @@ form .form__box:last-of-type {
   opacity: 0.8;
 }
 
+.jaw .privacy-checkbox input {
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+}
+
 .jaw .privacy-checkbox span {
   font-family: Arsenal;
   font-weight: 400;
