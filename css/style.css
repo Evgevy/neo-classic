@@ -12282,7 +12282,8 @@ form .form__box:last-of-type {
     -ms-flex-direction: column;
     flex-direction: column;
     margin-bottom: 70px;
-    padding: 25px;
+    padding: 30px;
+    gap: 50px;
   }
 
   .jaw__btn-sale {
