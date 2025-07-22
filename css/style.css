@@ -12281,7 +12281,8 @@ form .form__box:last-of-type {
     -webkit-box-direction: normal;
     -ms-flex-direction: column;
     flex-direction: column;
-    margin-bottom: 40px;
+    margin-bottom: 70px;
+    padding: 25px;
   }
 
   .jaw__btn-sale {
