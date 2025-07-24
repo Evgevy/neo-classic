@@ -12329,6 +12329,10 @@ form .form__box:last-of-type {
     min-height: auto;
   }
 
+  .jaw__docs-desc br {
+    display: none;
+  }
+
   .jaw__form-wrapper {
     padding: 40px 0;
   }
