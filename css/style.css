@@ -9335,6 +9335,7 @@ form .form__box:last-of-type {
   letter-spacing: 0%;
   vertical-align: middle;
   margin: 0;
+  max-width: 475px;
 }
 
 .jaw__btn-sale {
@@ -10415,15 +10416,6 @@ form .form__box:last-of-type {
   padding: 50px 0;
 }
 
-.jaw__extra-top {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: center;
-  -ms-flex-pack: center;
-  justify-content: center;
-}
-
 .jaw__extra-title {
   font-family: Playfair Display;
   font-weight: 600;
@@ -10432,6 +10424,7 @@ form .form__box:last-of-type {
   leading-trim: NONE;
   line-height: 100%;
   letter-spacing: 0%;
+  text-align: center;
   color: rgb(59, 59, 59);
   margin: 0 0 15px;
 }
@@ -10732,6 +10725,10 @@ form .form__box:last-of-type {
   .jaw__top-text {
     max-width: 100%;
     text-align: center;
+  }
+
+  .jaw__sale-subtext {
+    max-width: 100%;
   }
 
   .jaw__sale-item {
